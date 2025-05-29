@@ -101,9 +101,10 @@ Automated content previews
 This summarization tool is developed as part of a learning project to implement NLP techniques in real-world scenarios using Python. It demonstrates how to apply sentence tokenization, vectorization, similarity computation, and graph-based ranking for summarization.
 
 
-# OUTPUT1
+# OUTPUT-1
 
-![Image](https://github.com/user-attachments/assets/a33247ae-47d0-4650-9272-8d13b7a946a8)
+![Image](https://github.com/user-attachments/assets/6f877123-19ab-4313-ad9e-cf9df0becc3f)
 
-# OUTPUT2
-![Image](https://github.com/user-attachments/assets/624514d8-445b-4f93-b5eb-89e911fcd455)
+# OUTPUT-2
+![Image](https://github.com/user-attachments/assets/c0743e29-dbf4-4d79-992f-bc73574d68f2)
+
